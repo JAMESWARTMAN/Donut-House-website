@@ -73,3 +73,20 @@ line-height: 2;
 .sub-btn{
     font-size: 1rem;
 }
+
+.icons{
+    margin-left: 125px;
+}
+
+@media (max-width: 500px) {
+
+.icons{
+    margin-right: 85px;
+}
+
+ #about {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+}
